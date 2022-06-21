@@ -1,0 +1,14 @@
+// required
+
+
+//$primary: #FDC000;
+$primary: #81B746;
+$secondary: #2B4483;
+//$secondary: #222C58;
+
+
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/mixins";
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
