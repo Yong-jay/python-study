@@ -2,7 +2,7 @@
   <RouterLink 
     to="/" 
     class="logo">
-    <span class=spgreen>PYTHON</span>-<span class=spblue>STUDY</span>.ORG
+    <span class=spgreen>PYTHON-STUDY</span><span class=spblue>.ORG</span>
   </RouterLink>
 </template>
 
